@@ -1,0 +1,112 @@
+body{
+    background-image: url(https://i.pinimg.com/550x/9c/dd/13/9cdd139121d6ccff17296b25807c9791.jpg);
+    font-family: 'Comfortaa';
+    text-align: center;
+}
+
+.menu{
+    list-style: none;
+}
+
+.menu li{
+    display: inline;
+    padding: 0px 10px 0px 10px;
+    margin-right: 20px;
+    background-color: #cee9bb;
+}
+
+ul{
+    list-style: none;
+}
+
+nav ul li{
+    
+    
+    font-size: 20px;
+    text-transform: uppercase;
+    font-family: 'Comfortaa';
+    float:none;
+    
+}
+
+.Imagen {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 10%;
+}
+
+.TituloPrincipal {
+    background-color: #7dd4c6;
+    letter-spacing: 10px;
+    color: #005677;
+    text-align: center;
+    padding: 10px 0px 10px;
+    font-size: xx-large;
+}
+
+.seccion1 h2{
+    font-size: 35px;
+    font-weight: bold;
+    font-style: italic;
+    
+}
+
+.Titulo2 {
+    background-color: #7dd4c6;
+    letter-spacing: 10px;
+    color: #005677;
+
+}
+
+.seccion2 span {
+    font-weight: bold;
+    font-style: italic;
+}
+
+.Titulo3 {
+    background-color: #7dd4c6;
+    letter-spacing: 10px;
+    color: #005677;
+}
+
+.seccion3 span {
+    font-weight: bold;
+}
+
+.Titulo4 {
+    background-color: #7dd4c6;
+    letter-spacing: 10px;
+    color: #005677;
+}
+
+.seccion4 span {
+    font-weight: bold;
+}
+
+footer {
+    background-color: #005677;
+    color: white;
+    text-align: center;
+    font-size: 20px;
+    padding: 10px 0px 10px;
+}
+
+.piepagina{
+    text-align: center;
+    }
+
+.facebook{
+    width: 3%;
+    margin: 0px 15px 0px 15px;
+}
+
+.instagram{
+    width: 3%;
+    margin: 0px 15px 0px 15px;
+}
+
+.github{
+    width: 3%;
+    margin: 0px 15px 0px 15px;
+}
